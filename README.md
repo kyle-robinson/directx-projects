@@ -18,7 +18,7 @@ A collection of links to projects that were created using DirectX.
 
 <!-- Physics Framework -->
 <br>
-<a href="https://github.com/kyle-robinson/opengl-cubes" target="_blank">
+<a href="https://github.com/kyle-robinson/physics-framework" target="_blank">
         <img src="https://i.imgur.com/Nuk3ZgB.png" alt="Physics Framework Thumbnail" border="10" width="75%" />
 </a>
 <p><em>Physics Framework</em></p>
