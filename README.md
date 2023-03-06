@@ -5,7 +5,7 @@ A collection of links to projects that were created using DirectX.
 <!-- Advanced Graphics Framework -->
 <br><em>Advanced Graphics Framework - Click <a href="https://github.com/kyle-robinson/directx-advanced-graphics" target="_blank">here</a>.</em><br>
 
-<img src="https://i.imgur.com/zYXcw56.png" alt="Advanced Graphics Framework Thumbnail" border="10" width="75%" />
+<img src="https://i.imgur.com/NEA2Prt.png" alt="Advanced Graphics Framework Thumbnail" border="10" width="75%" />
 
 <!-- Graphics Framework -->
 <br><em>Graphics Framework - Click <a href="https://github.com/kyle-robinson/directx-framework" target="_blank">here</a>.</em><br>
